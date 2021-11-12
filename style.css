@@ -1,0 +1,172 @@
+body {
+    width: 1440px;
+}
+.logo {
+    position: absolute;
+    width: 119px;
+    height: 28px;
+    left: 661px;
+    top: 70px;
+}
+.largetext {
+    font-family: Red Hat Display;
+    font-style: normal;
+    text-align: center;
+    color: #28283D;
+}
+.largetext1 {
+    position: absolute;
+    width: 445px;
+    height: 128px;
+    left: 498px;
+    top: 170px; 
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 64px;   
+}
+.largetext2 {
+    font-size: 40px;
+    line-height: 44px;
+    position: absolute;
+    left: 8.89%;
+    right: 8.7%;
+    top: 17.5%;
+    bottom: 45.83%;
+}
+.largetext3 {
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #4D96A9;
+    text-align: center;
+}
+.para {
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #87879D;
+}
+.firstpara {
+    position: absolute;
+    width: 540px;
+    height: 52px;
+    left: 450px;
+    top: 378px;
+}
+.secondpara {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 67.5%;
+    bottom: 0%;
+}
+.leftimage {
+    position: absolute;
+    left: -32px;
+    top: 169px;
+}
+.rightimage {
+    position: absolute;
+    right: -32px;
+    top: 220px;
+}
+.btn {
+    border-radius: 29px;
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px
+}
+.firstbtn {
+    position: absolute;
+    width: 193px;
+    height: 58px;
+    left: 546px;
+    top: 462px;
+    color: white;
+    background: #4D96A9;   
+}
+.secondbtn {
+    position: absolute;
+    width: 139px;
+    height: 58px;
+    left: 755px;
+    top: 462px;
+    color: white;
+    background: #855FB1;
+}
+.middlesec {
+    position: absolute;
+    width: 56px;
+    height: 140px;
+    left: 692px;
+    top: 637px;   
+}
+.imgcarousel {
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    width: 1110px;
+    height: 242px;
+    left: 165px;
+    top: 841px;
+}
+.textcluster {
+    position: absolute;
+    width: 540px;
+    height: 240px;
+    left: 450px;
+    top: 1163px;
+}
+.prefooter {
+    position: absolute;
+    width: 56px;
+    height: 140px;
+    left: 692px;
+    top: 1475px;
+}
+.footer {
+    position: absolute;
+    width: 1440px;
+    height: 308px;
+    left: 0px;
+    top: 1587px;
+    z-index: -1;
+}
+.footertext {
+    display: flex;
+    justify-content: space-between;
+}
+.footerheader {
+    position: absolute;
+    width: 350px;
+    height: 88px;
+    left: 165px;
+    top: 90px;
+    color: #FAFAFA;
+}
+.footerpara {
+    position: absolute;
+    width: 350px;
+    height: 78px;
+    left: 640px;
+    top: 110px;
+    color: #FAFAFA;
+}
+.footerbtn {
+    position: absolute;
+    width: 193px;
+    height: 58px;
+    left: 1082px;
+    top: 135px;
+    color: white;
+    background: #855FB1;
+}
